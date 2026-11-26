@@ -1,1 +1,1 @@
-# direct_sign_language_translation
+# Direct Sign Language Translation
